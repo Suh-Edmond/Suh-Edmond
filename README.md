@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Suh-Edmond
-- 👀 I’m interested in Software Engineering and Ontologies
-- 🌱 I’m currently doing a Professional Internship at Go-Groups Ltd where I work as a Backend developer.
-- 💞️ I’m ready to collaborate on Software development Projects in SpringBoot, Angular, Laravel and Vuejs
-- 📫 How to reach me email:suhedmond25@yahoo.com, linkedin:https://www.linkedin.com/in/suh-edmond-37aaa51aa, Tel:+237673660071
+- 👋 Hi, I’m @Suh-Edmond, Java/PHP Developer
+- 👀 I’m interested in Software Engineering, Artificial Intelligence, and Ontologies
+- 📫 How to reach me email:suhedmond25@yahoo.com, LinkedIn:https://www.linkedin.com/in/suh-edmond-37aaa51aa, Tel:+237673660071
 
 
 <!---
