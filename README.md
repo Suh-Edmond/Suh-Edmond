@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Suh-Edmond, Java/PHP Developer
-- 👀 I’m interested in Software Engineering, Artificial Intelligence, and Ontologies
-- 📫 How to reach me email:suhedmond25@yahoo.com, LinkedIn:https://www.linkedin.com/in/suh-edmond-37aaa51aa, Tel:+237673660071
+- 👋 Hi, I’m @Suh-Edmond, Java/PHP/JS Developer
+- 👀 I’m the founder of [QuickRecords](https://quickrecords.vercel.app), the number one solution to effective and collaborative management of finances within a Church, Church group, Youth movement of an Organisation.
+- 📫 How to reach me email:suhedmond11@gmail.com, LinkedIn:https://www.linkedin.com/in/suh-edmond-37aaa51aa, Tel:+237673660071
 
 
 <!---
